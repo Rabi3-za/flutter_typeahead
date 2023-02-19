@@ -1,3 +1,12 @@
+# 4.3.6
+Fixed visibility of cupertino decoration and formated code
+
+## 4.3.5
+Fix in visibility of suggestions box classes
+
+## 4.3.4
+Improved the main example to be able to read it in pub dev,
+
 ## 4.3.3 - 1-Feburary-2023
 
 -- Apply PR to fix onSelected issue introduced in Flutter 3.7.0
